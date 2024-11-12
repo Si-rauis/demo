@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbd6d0de-8147-4ed6-a483-bffb93faf6f2" name="변경" comment="변경">
-      <change beforePath="$PROJECT_DIR$/../NBB1_2_3_Team08" beforeDir="false" afterPath="$PROJECT_DIR$/../NBB1_2_3_Team08" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NBE2_1_team6" beforeDir="false" afterPath="$PROJECT_DIR$/../NBE2_1_team6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NBE2_2_Team8" beforeDir="false" afterPath="$PROJECT_DIR$/../NBE2_2_Team8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TodoCICD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aws-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-v1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -96,7 +94,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -188,6 +186,7 @@
       <workItem from="1731393857952" duration="786000" />
       <workItem from="1731394655621" duration="434000" />
       <workItem from="1731395099373" duration="277000" />
+      <workItem from="1731395425497" duration="2002000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <option name="closed" value="true" />
@@ -216,7 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="변경" />
     <option name="LAST_COMMIT_MESSAGE" value="변경" />
