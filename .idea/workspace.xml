@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd6d0de-8147-4ed6-a483-bffb93faf6f2" name="변경" comment="변경">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/cicd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/cicd.yml" afterDir="false" />
+    <list default="true" id="cbd6d0de-8147-4ed6-a483-bffb93faf6f2" name="변경" comment="CI/CD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +29,17 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -184,7 +194,7 @@
       <workItem from="1731393857952" duration="786000" />
       <workItem from="1731394655621" duration="434000" />
       <workItem from="1731395099373" duration="277000" />
-      <workItem from="1731395425497" duration="2358000" />
+      <workItem from="1731395425497" duration="5421000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <option name="closed" value="true" />
@@ -202,7 +212,87 @@
       <option name="project" value="LOCAL" />
       <updated>1731397722807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731397813490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397813490</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731398561579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731398561579</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731398742904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731398742904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731398923499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731398923499</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731399327826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731399327826</updated>
+    </task>
+    <task id="LOCAL-00008" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731399479795</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731399479795</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731399618905</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731399618905</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731399877865</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731399877865</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731400185581</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731400185581</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CI/CD">
+      <option name="closed" value="true" />
+      <created>1731400371324</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731400371324</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +314,7 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="변경" />
+    <MESSAGE value="CI/CD" />
+    <option name="LAST_COMMIT_MESSAGE" value="CI/CD" />
   </component>
 </project>
