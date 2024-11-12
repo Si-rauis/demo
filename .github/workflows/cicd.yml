@@ -42,9 +42,11 @@ jobs:
           utcOffset: "+09:00"
 
   # 배포용패키지경로저장
-      - name: Set artifact
-        run: echo "artifact=$(ls ./build/libs)" >> $GITHUB_ENV
-  # 빈스토크배포
+      - name: Set JAR artifact name
+        run: |
+          ARTIFACT_NAME=$(ls ./build/libs/*.jar)
+          echo "ARTIFACT_NAME=${ARTIFACT_NAME##*/}" >> $GITHUB_ENV
+      # 빈스토크배포
       - name: Beanstalk Deploy
         uses: einaregilsson/beanstalk-deploy@v20
         with:
